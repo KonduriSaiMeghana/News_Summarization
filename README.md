@@ -2,7 +2,8 @@
 
 A Python-based application that provides concise and clear summaries of lengthy news articles. This project aims to make it easier for users to quickly understand the essence of news articles without reading through the full content.
 
-#🌟 Features
+# 🌟 Features
+
 Fetches news articles from various sources using the News API.
 
 Supports multiple categories like Science, Technology, World, Health, Entertainment, Politics, and more.
