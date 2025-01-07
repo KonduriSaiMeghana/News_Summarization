@@ -4,8 +4,11 @@ A Python-based application that provides concise and clear summaries of lengthy 
 
 🌟 Features
 Fetches news articles from various sources using the News API.
+
 Supports multiple categories like Science, Technology, World, Health, Entertainment, Politics, and more.
+
 Summarizes articles using the BART transformer model for natural language processing.
+
 Detects topics from articles using Latent Dirichlet Allocation (LDA).
 Multi-language support for languages including English, Hindi, Spanish, French, and more.
 Provides a clean and interactive interface built with Streamlit.
