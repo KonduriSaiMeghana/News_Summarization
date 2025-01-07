@@ -18,7 +18,8 @@ Provides a clean and interactive interface built with Streamlit.
 
 Includes direct links to full articles and displays article images (if available).
 
-#🛠️ Technologies Used
+# 🛠️ Technologies Used
+
 Python: Core programming language.
 
 Streamlit: For building the interactive user interface.
@@ -31,7 +32,7 @@ Gensim: For topic modeling using LDA.
 
 NLTK: For natural language processing and tokenization.
 
-#🚀 How to Run the Project
+# 🚀 How to Run the Project
 Prerequisites
 
 Ensure you have the following installed:
