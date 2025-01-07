@@ -4,7 +4,7 @@ A Python-based application that provides concise and clear summaries of lengthy 
 
 # 🌟 Features
 
-Fetches news articles from various sources using the News API.
+Fetches news articles from various sources using the [News API](https://newsapi.org/).
 
 Supports multiple categories like Science, Technology, World, Health, Entertainment, Politics, and more.
 
